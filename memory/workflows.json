@@ -1,0 +1,1328 @@
+[
+  {
+    "workflow_id": "z1j1pw1r",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 8511,
+    "success": false,
+    "timestamp": 1775976500605
+  },
+  {
+    "workflow_id": "r5ngiprj",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 6163,
+    "success": true,
+    "timestamp": 1775976698332
+  },
+  {
+    "workflow_id": "vdt6bp50",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 871,
+    "success": false,
+    "timestamp": 1775977238226
+  },
+  {
+    "workflow_id": "b72edxqa",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 1581,
+    "success": false,
+    "timestamp": 1775977265668
+  },
+  {
+    "workflow_id": "qxuji4co",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 1067,
+    "success": false,
+    "timestamp": 1775977519718
+  },
+  {
+    "workflow_id": "vzb3jb3l",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 4685,
+    "success": true,
+    "timestamp": 1775977631191
+  },
+  {
+    "workflow_id": "epmfm6po",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 4084,
+    "success": false,
+    "timestamp": 1775979216439
+  },
+  {
+    "workflow_id": "j2lskc78",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 6133,
+    "success": false,
+    "timestamp": 1775979412989
+  },
+  {
+    "workflow_id": "pe6ey6zf",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 15806,
+    "success": false,
+    "timestamp": 1775979767165
+  },
+  {
+    "workflow_id": "jf6sk29u",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 7614,
+    "success": true,
+    "timestamp": 1775980037819
+  },
+  {
+    "workflow_id": "yop7gt5n",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 3069,
+    "success": true,
+    "timestamp": 1775980883816
+  },
+  {
+    "workflow_id": "zgrng1wn",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 1392,
+    "success": false,
+    "timestamp": 1775981119859
+  },
+  {
+    "workflow_id": "i7edzua1",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 6066,
+    "success": true,
+    "timestamp": 1775981338447
+  },
+  {
+    "workflow_id": "dt6c4cj2",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 8491,
+    "success": true,
+    "timestamp": 1775982780065
+  },
+  {
+    "workflow_id": "wdq7iuug",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 20450,
+    "success": true,
+    "timestamp": 1775982883920
+  },
+  {
+    "workflow_id": "qflra12y",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 5938,
+    "success": false,
+    "timestamp": 1775982999634
+  },
+  {
+    "workflow_id": "g6ibj676",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 7821,
+    "success": true,
+    "timestamp": 1775983027930
+  },
+  {
+    "workflow_id": "07638k37",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 6580,
+    "success": false,
+    "timestamp": 1775985870400
+  },
+  {
+    "workflow_id": "edd5r90f",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 7458,
+    "success": false,
+    "timestamp": 1775985891916
+  },
+  {
+    "workflow_id": "h3tppc8y",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 4888,
+    "success": true,
+    "timestamp": 1775985915664
+  },
+  {
+    "workflow_id": "j0ijcytw",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 5250,
+    "success": true,
+    "timestamp": 1775987125477
+  },
+  {
+    "workflow_id": "20tus90e",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 6537,
+    "success": true,
+    "timestamp": 1775988569612
+  },
+  {
+    "workflow_id": "jlxlzx2e",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 5812,
+    "success": true,
+    "timestamp": 1775988644675
+  },
+  {
+    "workflow_id": "ufngso51",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 6341,
+    "success": true,
+    "timestamp": 1775989525450
+  },
+  {
+    "workflow_id": "7hhdr3dx",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 4772,
+    "success": true,
+    "timestamp": 1775990568934
+  },
+  {
+    "workflow_id": "650begua",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 8059,
+    "success": true,
+    "timestamp": 1776011536106
+  },
+  {
+    "workflow_id": "6mqqosfr",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 5955,
+    "success": true,
+    "timestamp": 1776068484875
+  },
+  {
+    "workflow_id": "g7mx9357",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 2857,
+    "success": false,
+    "timestamp": 1776529567674
+  },
+  {
+    "workflow_id": "136vaph7",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 5893,
+    "success": true,
+    "timestamp": 1776529588708
+  },
+  {
+    "workflow_id": "643pvdo6",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 5741,
+    "success": false,
+    "timestamp": 1776530424460
+  },
+  {
+    "workflow_id": "gfs53cin",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 1573,
+    "success": false,
+    "timestamp": 1776530447769
+  },
+  {
+    "workflow_id": "7h54na6v",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 2182,
+    "success": false,
+    "timestamp": 1776530469035
+  },
+  {
+    "workflow_id": "odrcbumk",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 1456,
+    "success": false,
+    "timestamp": 1776530484136
+  },
+  {
+    "workflow_id": "ja1jfzuw",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 6723,
+    "success": false,
+    "timestamp": 1776530524196
+  },
+  {
+    "workflow_id": "rdr1epyx",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 1337,
+    "success": false,
+    "timestamp": 1776530533459
+  },
+  {
+    "workflow_id": "exs2phu5",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 1185,
+    "success": false,
+    "timestamp": 1776530538521
+  },
+  {
+    "workflow_id": "fbznrio7",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 2442,
+    "success": false,
+    "timestamp": 1776530548112
+  },
+  {
+    "workflow_id": "x49ezyrm",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "attempts": 1
+      }
+    ],
+    "execution_time": 2812,
+    "success": false,
+    "timestamp": 1776530559671
+  },
+  {
+    "workflow_id": "df877zkd",
+    "steps": [
+      {
+        "id": 1,
+        "action": "create_database_items",
+        "connector": "notion",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 2,
+        "action": "create_branch",
+        "connector": "github",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 3,
+        "action": "append_execution_rows",
+        "connector": "sheets",
+        "success": true,
+        "attempts": 1
+      },
+      {
+        "id": 4,
+        "action": "send_message",
+        "connector": "slack",
+        "success": true,
+        "attempts": 1
+      }
+    ],
+    "execution_time": 11671,
+    "success": true,
+    "timestamp": 1776530748782
+  }
+]

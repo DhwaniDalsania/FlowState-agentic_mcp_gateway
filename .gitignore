@@ -1,0 +1,38 @@
+# 🔐 Environment & secrets
+.env
+.env.*
+credentials.json
+
+# 📦 Node dependencies
+node_modules/
+test_output.txt
+test_result.json
+
+# 🏗️ Build outputs
+dist/
+build/
+
+# 🧾 Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# 🐳 Docker
+.dockerignore
+
+# 💻 OS files
+.DS_Store
+Thumbs.db
+
+# 🧠 IDE/editor
+.vscode/
+.idea/
+
+# 🧪 Temporary/test files
+*.tmp
+*.temp
+
+# 🔒 Optional (if you generate tokens locally)
+token.json
+tmp_min.json
