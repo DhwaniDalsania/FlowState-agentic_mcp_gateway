@@ -1,7 +1,5 @@
 # 🌌 Agentic MCP Gateway v2
 
-![Agentic MCP Gateway Hero](docs/images/hero.png)
-
 > **Orchestrate. Evolve. Secure.** A state-of-the-art gateway for autonomous agent orchestration across Third-Party APIs (Notion, GitHub, Slack, Google Sheets).
 
 ## 🚀 Overview
