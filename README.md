@@ -31,20 +31,6 @@ Assign specialized agents to different segments of your workflow:
 
 ---
 
-## 🏗️ Architecture
-
-```mermaid
-graph TD
-    User((User)) -->|NL Prompt| Parser[LLM Parser - Groq/Llama3]
-    Parser -->|DAG| Evolution[Evolution Engine]
-    Evolution -->|Optimized Steps| Executor[DAG Executor]
-    Executor -->|Connectors| APIs[Notion | GitHub | Sheets | Slack]
-    APIs -->|Feedback| Evolution
-    Vault[(Secure Vault)] --- Executor
-```
-
----
-
 ## 🛠️ Getting Started
 
 ### 1. Prerequisites
